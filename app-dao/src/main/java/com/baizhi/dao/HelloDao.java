@@ -10,4 +10,8 @@ public class HelloDao {
         return "name :" + name;
     }
 
+    public void m1(){
+
+    }
+
 }
