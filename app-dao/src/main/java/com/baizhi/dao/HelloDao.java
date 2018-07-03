@@ -17,4 +17,6 @@ public class HelloDao {
     public void m2(){}
 
     public void m3(){}
+    
+    public void b(){}
 }
